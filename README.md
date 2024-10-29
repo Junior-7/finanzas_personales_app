@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # finanzas_personales_nuevo
 
 A new Flutter project.
@@ -14,3 +15,7 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+# finanzas_personales_app
+Aplicación Flutter para la gestión de finanzas personales, incluyendo sincronización bancaria y análisis de gastos.
+>>>>>>> 7efb0a603f20912d625652bfe326a38359d232df
