@@ -97,3 +97,15 @@ flutter:
   #
   # For details regarding fonts from package dependencies,
   # see https://flutter.dev/to/font-from-package
+
+
+  generate: true  # Asegura que los archivos se generen automáticamente
+
+  # Configuración para la generación de localizaciones
+gen_l10n:
+    arb-dir: lib/l10n  # Ruta donde estarán tus archivos .arb de localización
+    output-dir: lib/gen_l10n
+    output-class: AppLocalizations
+    synthetic-package: false
+    locales: ['en', 'es']  # Agrega los códigos de idioma que necesitas
+    preferred-supported-locales: ['en', 'es']
